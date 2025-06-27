@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5f47ac10b4f1c03e8c999001",
+    "user_email": "sarah.connor@example.com",
+    "userName": "Sarah Connor",
+    "delivery_email": "delivery9@example.com",
+    "ratings": 4.8,
+    "review": "Truly impressed by the professionalism. The delivery was not only quick but also handled with care. I received timely updates throughout, and the staff was very courteous. Highly satisfied with the experience!",
+    "parcel_id": "5f47ac10b4f1c03e8c999991",
+    "pick_up_email": "pickup9@example.com",
+    "user_photoURL": "https://randomuser.me/api/portraits/women/40.jpg",
+    "date": "2024-08-25T14:10:00.000Z"
+  },
+  {
+    "id": "5f47ac10b4f1c03e8c999002",
+    "user_email": "tony.stark@example.com",
+    "userName": "Tony Stark",
+    "delivery_email": "delivery10@example.com",
+    "ratings": 5.0,
+    "review": "Fast, reliable, and seamless. Honestly, this is the kind of delivery service you'd expect from a premium provider. Everything arrived ahead of time and perfectly intact. Kudos to the team!",
+    "parcel_id": "5f47ac10b4f1c03e8c999992",
+    "pick_up_email": "pickup10@example.com",
+    "user_photoURL": "https://randomuser.me/api/portraits/men/45.jpg",
+    "date": "2024-08-27T11:30:00.000Z"
+  },
+  {
+    "id": "5f47ac10b4f1c03e8c999003",
+    "user_email": "anita.bose@example.com",
+    "userName": "Anita Bose",
+    "delivery_email": "delivery11@example.com",
+    "ratings": 4.4,
+    "review": "Had a good experience with the service. The app was easy to navigate, and the parcel arrived earlier than expected. A little more communication during transit would make it perfect.",
+    "parcel_id": "5f47ac10b4f1c03e8c999993",
+    "pick_up_email": "pickup11@example.com",
+    "user_photoURL": "https://randomuser.me/api/portraits/women/44.jpg",
+    "date": "2024-08-29T09:45:00.000Z"
+  },
+  {
+    "id": "5f47ac10b4f1c03e8c999004",
+    "user_email": "brian.lee@example.com",
+    "userName": "Brian Lee",
+    "delivery_email": "delivery12@example.com",
+    "ratings": 3.9,
+    "review": "The delivery service was good, though I did face a slight delay in updates. However, the package was safely delivered and the team was polite when I contacted support.",
+    "parcel_id": "5f47ac10b4f1c03e8c999994",
+    "pick_up_email": "pickup12@example.com",
+    "user_photoURL": "https://randomuser.me/api/portraits/men/50.jpg",
+    "date": "2024-08-30T15:10:00.000Z"
+  },
+  {
+    "id": "5f47ac10b4f1c03e8c999005",
+    "user_email": "meera.patel@example.com",
+    "userName": "Meera Patel",
+    "delivery_email": "delivery13@example.com",
+    "ratings": 4.6,
+    "review": "Absolutely love how efficient and smooth the entire process was. From order to delivery, everything was well-coordinated. Will definitely use the service again and recommend it to others!",
+    "parcel_id": "5f47ac10b4f1c03e8c999995",
+    "pick_up_email": "pickup13@example.com",
+    "user_photoURL": "https://randomuser.me/api/portraits/women/55.jpg",
+    "date": "2024-09-01T13:30:00.000Z"
+  }
+]
