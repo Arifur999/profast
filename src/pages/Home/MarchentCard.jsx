@@ -1,9 +1,10 @@
 import React from "react";
 import locationMerchant from "../../assets/location-merchant.png";
+// import bg from "../../assets/banner/be-a-merchant-bg.png";
 
 const MarchentCard = () => {
   return (
-    <div className=" bg-[#03373D] mt-6 p-6 rounded-2xl">
+    <div className=" bg-[#03373D] bg-[url('assets/banner/be-a-merchant-bg.png')] bg-no-repeat mt-6 p-6 rounded-2xl">
       <div className="hero-content flex-1/2 flex-col lg:flex-row-reverse">
         <img
           src={locationMerchant}

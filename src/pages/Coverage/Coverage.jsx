@@ -46,7 +46,7 @@ const DistrictMap = () => {
   };
 
   return (
-    <div className="my-10 p-4 max-w-6xl mx-auto bg-base-100 rounded-xl shadow">
+    <div className="my-10 p-4 max-w-7xl mx-auto bg-base-100 rounded-xl shadow">
       <h2 className="text-3xl font-bold  mb-6 pl-10">
         We are available in <span className="text-primary">64 districts</span>
       </h2>
