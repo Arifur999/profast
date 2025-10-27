@@ -7,6 +7,7 @@ import AuthLayout from "../layout/AuthLayout";
 import Login from "../pages/Auth/Login";
 import Register from "../pages/Auth/Register";
 import Coverage from "../pages/Coverage/Coverage";
+import SendParcel from "../pages/SendParcel/SendParcel";
 
 
 const router = createBrowserRouter([
@@ -21,6 +22,10 @@ children:[
     {
       path:"/coverage",
       Component:Coverage,
+    },
+    {
+      path:"/parcel",
+      Component:SendParcel,
     },
 ]
   },
